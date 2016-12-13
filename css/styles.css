@@ -8,10 +8,9 @@ span.red {
   font-family: fantasy; }
 
 .jumbotron {
-  width: 85%;
+  width: 100%;
   background: black;
   border: 3px solid red;
-  margin: 10px;
   display: flex;
   flex-direction: row;
   justify-content: space-around; }
